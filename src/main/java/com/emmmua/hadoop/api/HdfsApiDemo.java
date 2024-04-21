@@ -1,4 +1,4 @@
-package com.emmmua.hadoop.hdfs_api;
+package com.emmmua.hadoop.api;
 
 import org.apache.commons.compress.utils.IOUtils;
 import org.apache.hadoop.conf.Configuration;
